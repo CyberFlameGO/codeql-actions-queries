@@ -1,0 +1,4 @@
+name: aeisenberg/codeql-actions-queries
+version: 1.0.0
+dependencies:
+  codeql/javascript-all: ^0.0.10
