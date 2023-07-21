@@ -1,6 +1,4 @@
 ---
-dependencies:
-  codeql/javascript-all:
-    version: 0.0.14
-compiled: false
 lockVersion: 1.0.0
+dependencies: {}
+compiled: false
